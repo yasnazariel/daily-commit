@@ -5,3 +5,4 @@ day 3 _ My third commit 🌱
 day 4 _ My 4th commit 🌱
 day 5 _ My 5th commit 🌱
 day 6 _ My 6th commit 🌱
+day 7 _ My 7th commit 🌱
